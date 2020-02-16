@@ -120,7 +120,7 @@
           <configuration>
           	<includes>Runner.java</includes>
           	<suiteXmlFiles>
-				<suiteXmlFile>${SuiteFileName}</suiteXmlFile>
+				<suiteXmlFile>src/test/java/testng.xml</suiteXmlFile>
 			</suiteXmlFiles>
           </configuration>
         </plugin>
