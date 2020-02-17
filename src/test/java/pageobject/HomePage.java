@@ -9,4 +9,8 @@ public class HomePage extends SeleniumClass {
 		super.element = super.identifyElements(linkName, locatorType.linkText);
 		super.performAction(super.element , "Click", null);
 	}
+	
+	public void test() {
+		
+	}
 }
