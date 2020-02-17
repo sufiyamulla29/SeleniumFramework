@@ -7,7 +7,7 @@
     </classes>
   </test> <!-- Test -->
   
-  <!-- Listeners implemeted in below location -->
+  <!-- Listeners implemented -->
   <listeners>
   <listener class-name="listners.ITestListnerimpl">
   </listener>
